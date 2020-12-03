@@ -1,14 +1,9 @@
 ---
-title: Test site
+title: Wish List 2020
 date: 2019-03-17T19:31:20.591Z
-cats:
-  - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
-    name: Maru (まる)
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
-    name: Grumpy cat
+cats: []
 ---
-Starter NextJS templage.
+Here's my 2020 wishlist:
 
-Content is managed in Netlify CMS
+1. [Thermoworks Dot ](https://www.thermoworks.com/DOT?quantity=1&color=3)
+2. [Nordic Ware Half Sheet with Oven Safe Nonstick Grid](https://www.amazon.com/dp/B07BZLZFRG/)

@@ -9,3 +9,6 @@ Here's my 2020 wishlist:
 2. [Themapen](https://www.thermoworks.com/Classic-Thermapen?quantity=1&color=3) - $71
 3. [Nordic Ware Half Sheet with Oven Safe Nonstick Grid](https://www.amazon.com/dp/B07BZLZFRG/) - $40
 4. [Ready Player Two: A Novel](https://www.amazon.com/dp/1524761338/) - $16
+5. [Running Belt / Fanny Pack](https://www.amazon.com/dp/B019SM9GPK/) - $30
+6. [Transamerica Board Game](https://www.amazon.com/Rio-Grande-Games-Transamerica-Game/dp/B00008URUO) - $31
+7. [Houses of the Holy - Led Zeppelin (Vinyl)](https://www.amazon.com/Houses-Holy-Remastered-Original-Vinyl/dp/B00M30VKWM) - $20
